@@ -1,0 +1,94 @@
+
+
+.containerConversao {
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.text-center1 {
+    font-size: 80px;
+    background-color: rgba(5, 126, 54, 0.948);
+    font-family: arial;
+    color: white;
+}
+.container {
+    font-size:  50px;
+    font-family: arial;
+    color: black;
+}
+.formulario {
+    font-size: 30px;
+    font-family: arial;
+    color: black;
+}
+
+.button {
+    margin-top: 5px; /* Margem superior do botão */
+    background-color: rgba(5, 126, 54, 0.948);; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    border: none; /* Remove a borda do botão */
+    padding: 5px 10px; /* Espaçamento interno do botão */
+    border-radius: 5px; /* Borda arredondada do botão */
+    cursor: pointer; /* Altera o cursor ao passar o mouse sobre o botão */
+    width: 200px;
+}
+
+
+.button:hover{
+    background-color: rgb(255, 255, 255);
+    color:  rgba(5, 126, 54, 0.948);
+    border: 1px solid  rgba(5, 126, 54, 0.948);
+}
+
+.valorDado {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+}
+
+.tabelaTitulo {
+    font-size: 50px;
+    font-family: arial;
+    
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: rgba(5, 126, 54, 0.948);
+    font-size: 30px;
+    font-family: arial;
+    color: white;
+}
+
+.input {
+    padding: 10px;
+    border: 1px solid rgba(5, 126, 54, 0.948);
+    font-size: 26px;
+
+}
+
+.rodape {
+    background-color: rgba(5, 126, 54, 0.948);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    height: auto;
+    font-size: 20px;
+    
+}
+
+    
